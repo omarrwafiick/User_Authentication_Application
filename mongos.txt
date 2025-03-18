@@ -1,0 +1,11 @@
+wafickmo11
+ItuIhIBWpbN6xvyI
+
+http://localhost:3000/api/auth/signin
+{
+    "email": "Wafickmo@gmail.com",
+    "password":"Dream2000$",
+    "name": "omar wafick"
+}
+
+ 
